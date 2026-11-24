@@ -1,0 +1,5 @@
+pour le choix des célébrités, je commence par une car je n'ai pour l'instant pas de groupes. Je choisis Kylian Mbappe.
+
+Pour l'architecture du site, dans l'idéal, j'aimerai bien une page d'accueil divisé en trois part égale, avec une photo de chaque célébrités dans chaque parties. une interaction sur la photo sera possible afin de rediriger vers la page correspondant à la célébrité. 
+
+le problème que je rencontre est que je n'arrive pas à mettre d'image en background de chaque sections.

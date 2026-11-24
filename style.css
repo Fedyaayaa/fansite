@@ -1,0 +1,10 @@
+.accueil {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#kylian-mbappe {
+    background-image: "kylian_mbappe.jpg";
+}
