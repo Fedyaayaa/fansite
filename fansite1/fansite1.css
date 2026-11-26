@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background-color: #faf7f3;
+    color: #302a28;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header,
+footer {
+    padding: 16px 24px;
+    background-color: #61283d;
+    color: white;
+}
+
+nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 20px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav a {
+    color: white;
+}
+
+main {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 24px;
+}
+
+figure img {
+    max-width: 100%;
+    height: auto;
+}
+
+.portrait-accueil img {
+    width: 300px;
+}
