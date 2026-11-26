@@ -1,5 +1,17 @@
 .header {
+    background-color: #FEBE10;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer {
+    background-color: #EE324E;
     display: flex;
     justify-content: center;
-    gap: 100px 100px;
+    gap: 100px;
+}
+
+.palmares {
+    display: flex;
+    flex-direction: column;
 }
